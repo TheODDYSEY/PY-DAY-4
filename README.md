@@ -1,4 +1,4 @@
-**PLP PYTHON DAY 4: File Reader & Modifier**  
+## PLP PYTHON DAY 4: File Reader & Modifier
 This Python script reads the content of a file, modifies it (by converting it to uppercase), and writes the modified content to a new file. It also handles file errors gracefully.  
 
 ### **Operations Performed**  
